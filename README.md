@@ -6,17 +6,13 @@
 
 > **Learn • Build • Experiment • Grow 🚀**
 
----
-
 ## 🧭 About My Journey
 
 I'm a B.Tech CSE (AI/ML) student exploring the world of Artificial Intelligence and Machine Learning.
 
-I started with programming fundamentals and data analysis, and I'm gradually moving towards **Machine Learning, Generative AI, LLMs, and AI Engineering**.
+My journey started with programming and data analysis, and I'm gradually exploring **Machine Learning, Generative AI, LLMs, and AI Engineering**.
 
-I enjoy learning by building projects and turning ideas into practical solutions. 🚀
-
----
+I believe in learning by building — experimenting with new technologies, working on practical projects, and continuously improving my skills. 🚀
 
 ## ⚡ What I'm Working On
 
@@ -26,8 +22,6 @@ I enjoy learning by building projects and turning ideas into practical solutions
 - 🌐 Building web-based interfaces for projects
 - 🛠️ Working on practical and real-world projects
 - 📚 Improving my problem-solving and development skills
-
----
 
 ## 🛠️ Tech Stack
 
@@ -39,44 +33,22 @@ I enjoy learning by building projects and turning ideas into practical solutions
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 📊 Data & AI
+### 📊 Data & visualization
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Project
-
-### 🛡️ Sentinel-X
-
-**AI-Assisted Emergency Safety Wearable**
-
-A team project focused on emergency alerts, location tracking and smart emergency response.
-
-**My Contribution:** Frontend Development
-
-- 🏠 Landing Page
-- 🔐 Login Interface
-- 📊 Dashboard
-- 📱 Device Connection Interface
-- ⚙️ Device Settings
-- 🚨 Emergency Contacts
-- 📜 Alert History
-- 👤 Profile Interface
-- 🎨 UI design and styling
-
-🔗 [View Sentinel-X →](https://github.com/poonamsoni9131-byte/Sentinel-X)
-
----
 
 ## 📚 Currently Learning
 
@@ -91,16 +63,12 @@ I'm currently exploring:
 
 > **From learning concepts → to building projects → to solving real problems.**
 
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poonamsoni9131-byte&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://streak-stats.demolab.com?user=poonamsoni9131-byte&hide_border=true" height="165"/>
 </p>
-
----
 
 ## 🎯 2026 Goals
 
@@ -111,18 +79,17 @@ I'm currently exploring:
 - 💻 Improve my development skills
 - 🌱 Grow consistently through projects and open-source
 
----
-
 ## 🌐 Connect With Me
 
 <p>
   <a href="https://github.com/poonamsoni9131-byte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- Add your LinkedIn URL here -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
----
 
 <p align="center">
   ✨ <b>Learning today. Building tomorrow.</b> ✨
