@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Poonam Soni
+# 🚀 Poonam Soni — From Curiosity to Code
 
 🎓 B.Tech CSE (AI/ML) Student  
 🐍 Python • 🤖 AI/ML • ✨ Generative AI  
