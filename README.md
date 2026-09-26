@@ -78,18 +78,17 @@ I'm currently exploring:
 - ⚙️ Learn AI Engineering workflows
 - 💻 Improve my development skills
 - 🌱 Grow consistently through projects and open-source
-
+- 
 ## 🌐 Connect With Me
 
 <p>
   <a href="https://github.com/poonamsoni9131-byte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/poonam-soni-953b24389/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 <p align="center">
   ✨ <b>Learning today. Building tomorrow.</b> ✨
